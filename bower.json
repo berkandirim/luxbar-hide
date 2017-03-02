@@ -1,0 +1,25 @@
+{
+  "name": "luxbar-hide",
+  "description": "A js plugin for luxbar that hides navigation on scroll",
+  "main": "",
+  "authors": [
+    "Berkan Dirim <berkandirim@gmail.com> (http://dirim.co/)"
+  ],
+  "license": "GNU General Public License",
+  "keywords": [
+    "plugin",
+    "luxbar",
+    "navigation"
+  ],
+  "homepage": "https://github.com/berkandirim/luxbar-hide",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "luxbar": "^0.3.2"
+  }
+}

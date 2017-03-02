@@ -1,0 +1,32 @@
+{
+  "name": "luxbar-hide",
+  "version": "0.1.0",
+  "description": "A js plugin for luxbar that hides navigation on scroll.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berkandirim/luxbar-hide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/berkandirim/luxbar-hide/issues"
+  },
+  "homepage": "https://github.com/berkandirim/luxbar-hide",
+  "author": "Berkan Dirim <berkandirim@gmail.com> (http://dirim.co/)",
+  "keywords": [
+    "plugin",
+    "luxbar",
+    "navigation"
+  ],
+  "license": "GNU General Public License",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
